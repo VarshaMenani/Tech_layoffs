@@ -14,6 +14,8 @@ The dataset is available on kaggle : https://www.kaggle.com/datasets/ulrikeherol
 US             |  INDIA
 :-------------------------:|:-------------------------:
 ![Dashboard](images/us.png)  |  ![Dashboard](images/india.png)
+**UK**           |  **GERMANY**
+![Dashboard](images/uk.png)  |  ![Dashboard](images/germany.png)
 
 ## Insights
 * US had maximum number of laid off employees followed by India, Germany, Sweden, and UK.
