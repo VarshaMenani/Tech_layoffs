@@ -6,9 +6,8 @@
 * Dashboard: https://public.tableau.com/app/profile/varsha.menani/
 
 ## About the Dataset
-Data is from https://layoffs.fyi/
-Web scraping on Dec. 25th 2023 + Jan 14th 2024
-The dataset is available on kaggle : https://www.kaggle.com/datasets/ulrikeherold/tech-layoffs-2020-2024 
+* Data is from https://layoffs.fyi/ and is available on kaggle.
+* Web scraping on Dec. 25th 2023 + Jan 14th 2024.
 
 ## Dashboard
 US             |  INDIA
