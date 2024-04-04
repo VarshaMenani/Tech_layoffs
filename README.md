@@ -2,10 +2,13 @@
 # Tech Layoffs (2020-2024)
 
 * Done a study to analyze trend of layoffs in tech industry in 5 most affected countries due to COVID-19 and economic slowdown during (2020-2024).
-* Created an interactive tableau dashboard to analyze data to generate insights via data visualization.
 * The dashboard shows various metrics showcasing the impact of layoffs on the different countries including India.
-* Skills used: Tableau software, Data Analysis, Data visualization.
 * Dashboard: https://public.tableau.com/app/profile/varsha.menani/
+
+## About the Dataset
+Data is from https://layoffs.fyi/
+Web scraping on Dec. 25th 2023 + Jan 14th 2024
+The dataset is available on kaggle : https://www.kaggle.com/datasets/ulrikeherold/tech-layoffs-2020-2024 
 
 ## Dashboard
 US             |  INDIA
